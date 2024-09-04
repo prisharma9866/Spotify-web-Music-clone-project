@@ -30,12 +30,10 @@ JavaScript: For interactivity and dynamic content.
 Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository and submit a pull request.
 
-#License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 
 #Acknowledgements
 Spotify for inspiration.
 Open-source libraries and tutorials that made this project possible.
 You can modify or expand this README.md as needed to fit the specifics of your project.
+
 #screenshot 
