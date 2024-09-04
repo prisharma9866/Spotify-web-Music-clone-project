@@ -15,7 +15,6 @@ git clone https://github.com/prisharma9866/Spotify-web-Music-clone-project.git
 Navigate to the Project Directory:
 bash
 cd Spotify-web-Music-clone-project
-cd Spotify-web-Music-clone-project 
 
 Open index.html in Your Browser: You can simply open the index.html file in your preferred browser to run the application.
 Usage
@@ -30,6 +29,9 @@ CSS3: For styling and layout.
 JavaScript: For interactivity and dynamic content.
 Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository and submit a pull request.
+
+#License
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
 #Acknowledgements
